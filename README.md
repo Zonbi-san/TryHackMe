@@ -32,8 +32,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 | ■      | [The Hacker Methodology](https://tryhackme.com/room/hackermethodology)        | Intro               |                                          |
 | ■      | [Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)  | Intro               |                                          |
 | ◩      | [Linux Fundamentals](https://tryhackme.com/module/linux-fundamentals)         | Intro               |                                          |
-| ■      | [Windows Fundamentals](https://tryhackme.com/module/windows-fundamentals)     | Intro               |                                          |
-<!--| ☐      | [Principles of Security](https://tryhackme.com/room/principlesofsecurity)     | Intro               |                                          | -->
+| ■       | [Windows Fundamentals](https://tryhackme.com/module/windows-fundamentals)     | Intro               |                                          |
 | ☐      | [Red Team Fundamentals](https://tryhackme.com/room/redteamfundamentals)       | Intro               |                                          |
 | ☐      | [Tmux](https://tryhackme.com/room/rptmux)                                     | Tooling             |                                          |
 | ☐      | [Nmap](https://tryhackme.com/room/furthernmap)                                | Tooling             |                                          |
@@ -117,6 +116,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 <!-- | ☐      | [CC Radare2](https://tryhackme.com/room/ccradare2)                       | Reverse Engineering |                                          | -->
 <!-- | ☐      | [CC Steganography](https://tryhackme.com/room/ccstego)                   | Reverse Engineering |                                          | -->
 <!-- | ☐      | [Reverse Engineering](https://tryhackme.com/room/reverseengineering)     | Reverse Engineering |                                          | -->
+<!-- | ☐      | [Principles of Security](https://tryhackme.com/room/principlesofsecurity)     | Intro               |                                          | -->
 
 <details>
   <summary>
